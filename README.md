@@ -1,3 +1,3 @@
-#HelloWorld
+HelloWorld
 
 My first repository

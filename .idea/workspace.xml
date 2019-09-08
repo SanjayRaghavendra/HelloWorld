@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f9774c-ea88-4067-b6ff-8a790db4039e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HelloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/HelloWorld.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -132,7 +132,7 @@
     <entry file="file://$PROJECT_DIR$/HelloWorld.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
